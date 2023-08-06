@@ -1,0 +1,46 @@
+.home-banner {
+  background-image: url(./assests/home-banner.png);
+  background-size: cover;
+  /* width: 1920px;
+  height: 840px; */
+}
+
+.circle {
+  width: 522px;
+  height: 502.120849609375px;
+  position: absolute;
+}
+.jeans {
+  position: relative;
+
+}
+
+.banner-left{
+  height: 65px;
+  width: 387px
+}
+
+.text-1{
+  width: 663px;
+  height: 164px
+}
+
+.text-2{
+  width: 80rem;
+  height: 1rem;
+  font: Li Ador Noirrit
+}
+
+.phone {
+  width: 433px;
+  height: 167px;
+}
+
+
+/* .navbar{
+    width: 84.23503875732422px;
+    height: 84.68072509765625px;
+    top: 54.97705078125px;
+    left: 317px
+
+} */
