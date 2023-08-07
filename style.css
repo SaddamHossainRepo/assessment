@@ -12,23 +12,21 @@
 }
 .jeans {
   position: relative;
-
 }
 
-.banner-left{
+.banner-left {
   height: 65px;
-  width: 387px
+  width: 387px;
 }
 
-.text-1{
+.text-1 {
   width: 663px;
-  height: 164px
+  height: 164px;
 }
 
-.text-2{
-  width: 80rem;
-  height: 1rem;
-  font: Li Ador Noirrit
+.text-3{
+  /* width: 1290px;
+  height: 56px; */
 }
 
 .phone {
@@ -36,6 +34,10 @@
   height: 167px;
 }
 
+.denim{
+  background-image: url(./assests/denim/Rectangle\ 4.png);
+  background-size: cover;
+}
 
 /* .navbar{
     width: 84.23503875732422px;
